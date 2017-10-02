@@ -1,13 +1,13 @@
-##Hackoose
+## Hackoose
 
 Kick-start your project with boilerplates on latest web technology to save time and build fast, robust and adaptable web apps or sites.
 
-##Content
+## Content
 
 - [Hackathon Tips](https://github.com/hackoose/hackoose.github.io/blob/master/tips.html)
 - [Boilerplates](https://github.com/hackoose/hackoose.github.io/blob/master/boilerplates.html)
 
-##Contributing
+## Contributing
 
 **Bug Reports**
 
